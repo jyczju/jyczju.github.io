@@ -7,8 +7,8 @@
       <p><b>本科，浙江大学电气工程学院，自动化，2019.08-2023.06</b></p>
       <p><b>邮箱：jiangyancheng@zju.edu.cn</b></p>
       <p><b>电话/微信：15058183976</b></p>
-       <p><a href="./cv_zh.pdf">PDF简历下载（中文版）</a></p>
-      <p><a href="./index-en.html">English Version</a></p>
+      <p><a href="./cv_zh.pdf">PDF简历下载（中文版）</a></p>
+      
     </td>
     <td width="25%">
       <img src="./lisfoto.jpg" width="100%">
@@ -16,7 +16,6 @@
   </tr>
 </table>
 </div>
-
 
 
 ### 研究方向
