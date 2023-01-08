@@ -2,19 +2,20 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
+      <h1>蒋颜丞</h1>
+      <p><b>硕士，浙江大学电气工程学院，控制理论与控制工程，2023.09-2026.03</b></p>
+      <p><b>本科，浙江大学电气工程学院，自动化，2019.08-2023.06</b></p>
+      <p><b>邮箱：jiangyancheng@zju.edu.cn</b></p>
+      <p><b>电话/微信：15058183976</b></p>
+      <p><a href="./index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="./lisfoto.jpg" width="90%">
     </td>
   </tr>
 </table>
 </div>
+
 
 ---
 
